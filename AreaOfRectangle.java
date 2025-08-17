@@ -1,4 +1,4 @@
-// Area of Rectange
+// Area of Rectangle
 
 import java.util.Scanner;
 
