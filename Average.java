@@ -1,3 +1,5 @@
+// Finding Average of Numbers
+
 import java.util.Scanner;
 
 public class Average {
