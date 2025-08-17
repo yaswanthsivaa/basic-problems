@@ -1,4 +1,4 @@
-// Celcius to Fahrenheit  
+// Celsius to Fahrenheit  
 
 import java.util.Scanner;
 
