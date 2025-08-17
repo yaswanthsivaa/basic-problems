@@ -1,3 +1,5 @@
+// Cube of a Number
+
 public class CubeOfNumber {
   
   public static void main(String[] args){
