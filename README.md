@@ -8,4 +8,4 @@
 6. Num check +ve or -ve  [Num check](PositiveOrNegative.java)
 7. Finding Remainder     [Find Remainder](Remainder.java)
 8. Perfect Number        [Perfect Number](PerfectNumber.java)
-9. check Triangle triangle valid or not [Triangle](Triangle.java)
+9. check Triangle valid or not [Triangle](Triangle.java)
