@@ -11,3 +11,7 @@
 9. check Triangle valid or not [Triangle](Triangle.java)
 10. TriangleType         [Triangle type](TriangleTypes.java)
 11. Multiplication of Table [Multiplication](Multiplication.java)
+12. Circumference Of Circle [Circle Circumference](CircumferenceOfCircle.java)
+13. Character to Ascii [Characer to Ascii](CharacterToAscii.java)
+14. Electricity bill   [Electricity bill](ElectricityBill.java)
+15. Grade of Student   [StudentGrade](GradeOfStudent.java)
