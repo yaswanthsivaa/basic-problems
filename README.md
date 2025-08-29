@@ -9,3 +9,5 @@
 7. Finding Remainder     [Find Remainder](Remainder.java)
 8. Perfect Number        [Perfect Number](PerfectNumber.java)
 9. check Triangle valid or not [Triangle](Triangle.java)
+10. TriangleType         [Triangle type](TriangleTypes.java)
+11. Multiplication of Table [Multiplication](Multiplication.java)
