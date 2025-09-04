@@ -28,4 +28,8 @@
 26. Str to UpperCase   [Str to Uppercase String](StrToUpper.cpp)
 27. Sum of Array Elements [Sum of Array elements](SumOfArrayElements.cpp)
 28. Sum of Digits      [Sum Of Digits](SumOfDigits.cpp)
+29. check Triangle     [Triangle is valid or not](Triangle.java)
+30. check letter vowel or consonent [Vowel or  Consonent](Vowel_Consonent.java)
+31. PowerOfNumber using Loop [Pow Of Num using Loop](PowerOfNumberUsingLoop.java)
+32. Leap Year          [Leap Year](LeapYear.java)
 
