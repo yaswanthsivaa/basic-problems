@@ -15,7 +15,7 @@
 13. Character to Ascii [Characer to Ascii](CharacterToAscii.java)
 14. Electricity bill   [Electricity bill](ElectricityBill.java)
 15. Grade of Student   [StudentGrade](GradeOfStudent.java)
-16. lcm of Numbers     [LcmOfNums](LCM.cpp)
+16. lcm of Numbers     [LcmOfNums](Lcm.cpp)
 17. Num of Occurences of Elements [NOfOccurences](NoOfOcc.cpp)
 18. Pow of Numbers     [Power Of a Number](PowOfNum.cpp)
 19. check Prime Number [Check prime](PrimeNum.cpp)
