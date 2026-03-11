@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class DayOfTheWeek{
 
   public static String DayOfTheweek(int dayNumber){
-
     switch(dayNumber){
 
       case 1:
