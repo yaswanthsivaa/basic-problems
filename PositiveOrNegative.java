@@ -9,7 +9,7 @@ public class PositiveOrNegative {
     
     System.out.print("Enter a number :");
     int num = sc.nextInt();
-    
+   
     String result = num >= 0 ? "Positive" : "Negitive";
 
     System.out.printf("The Given Number %d is :%s",num,result);
