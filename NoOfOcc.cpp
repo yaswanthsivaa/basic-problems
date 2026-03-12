@@ -10,7 +10,7 @@ int main(){
   int s = sizeof(nums) / sizeof(nums[0]);
   
   int hash[5] = {0};
-  
+ 
   for(int i=0; i<s; i++){
     int num = nums[i] % 10;
     hash[num]++;
