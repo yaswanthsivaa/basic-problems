@@ -42,7 +42,6 @@ public class ElectricityBill {
       int units = wats;
       int count = 1;
       int totalPrice = 0;
-
       while(units > basic){
         units = units - 100;
         if(count == 1){
