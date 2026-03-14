@@ -13,7 +13,6 @@ public class PerfectNumber {
          sum = sum + i;
       }
     }
-
     if(sum == num){
       return "Yes Given Number is Perfect Number.";
     }
