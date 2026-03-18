@@ -1,5 +1,4 @@
 // Area of Rectangle
-
 import java.util.Scanner;
 
 public class AreaOfRectangle {
