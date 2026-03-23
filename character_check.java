@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class character_check {
   public static int checkingCharAplhaOrNot(char letter){
-
     int ascii = (int)letter;
     if(ascii >= 65 && ascii <= 90 || ascii >= 97 && ascii <= 122){
        return 1;
