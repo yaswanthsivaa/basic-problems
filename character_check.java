@@ -12,7 +12,6 @@ public class character_check {
     else
       return 0;
   }
-
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
 
