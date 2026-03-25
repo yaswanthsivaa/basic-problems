@@ -15,7 +15,6 @@ public class CircumferenceOfCircle {
      System.gc();
      sc.close();
   }
-
   public double circumferenceOfCircle(int radius){
     
     // 2 x Radius x PI
