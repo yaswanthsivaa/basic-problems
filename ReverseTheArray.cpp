@@ -3,7 +3,6 @@
 #include <iostream>
 
 int main(){
-
   const char *languages[4] = {"C", "C++", "Java", "Python"};
   int size = sizeof(languages)/ sizeof(languages[0]);
   
