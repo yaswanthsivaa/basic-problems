@@ -8,7 +8,7 @@ int power(int n, int pow){
     return n;
   else{
     return power(n, pow-1)*n;
-    
+   
   }
 }
 
