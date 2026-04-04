@@ -28,7 +28,7 @@ public class PerfectNumber {
     System.out.print("Enter a Number :");
 
     String result = perfectNumber(sc.nextInt());
-    
+   
     System.out.println(result);
 
     sc.close();
