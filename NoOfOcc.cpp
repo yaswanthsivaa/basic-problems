@@ -15,6 +15,7 @@ int main(){
     int num = nums[i] % 10;
     hash[num]++;
   }
+
   
   int number;
   cout << "Enter a Number :";
