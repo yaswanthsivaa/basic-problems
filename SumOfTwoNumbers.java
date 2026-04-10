@@ -6,6 +6,7 @@ public class SumOfTwoNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+
         // Take input from user
         System.out.print("Enter the two numbers separated by a comma: ");
         String input = scanner.nextLine();
