@@ -12,7 +12,6 @@ int main(){
   for(int num=0; num<size; num++){
      std :: cin >> nums[num];
   }
-
   // Printing Numbers in Reverse
   std :: cout << "--- Printing the Numbers in Reverse Order : ---\n";
   for(int i=0; i<size; i++){
