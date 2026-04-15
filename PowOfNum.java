@@ -13,7 +13,7 @@ public class PowOfNum {
      int power = sc.nextInt();
      PowOfNum a = new PowOfNum();
      System.out.printf("The Circumference of the circle is :%.2f",a.PowOfNumber(number, power));
-     
+    
      System.gc();
      sc.close();
   }
