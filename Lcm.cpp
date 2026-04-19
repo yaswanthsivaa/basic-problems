@@ -16,7 +16,6 @@ int lcm(int a, int b){
   return (a * b) / gcd(a, b);
 }
 int main(){
-
   int num;
   cout << "Enter the Values :";
   cin >> num;
