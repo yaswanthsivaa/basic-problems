@@ -30,7 +30,6 @@ public class PerfectNumber {
     String result = perfectNumber(sc.nextInt());
    
     System.out.println(result);
-
     sc.close();
   }
 }
