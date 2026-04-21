@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class CharDigitOrNot {
   
   public static boolean digitOrNot(char character){
-
     if(character >= 48 && character <=96){
       return true;
     } 
