@@ -22,7 +22,7 @@ public class LeapYear {
 
     System.out.print("Enter the Year :");
     int year = sc.nextInt();
-    
+   
     boolean result = leapYear(year);
 
     if (result == true){
