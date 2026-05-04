@@ -1,7 +1,6 @@
 // To determine given character is Digit or not
 
 import java.util.Scanner;
-
 public class CharDigitOrNot {
   
   public static boolean digitOrNot(char character){
