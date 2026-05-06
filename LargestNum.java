@@ -1,7 +1,7 @@
 // Largest Number
 
 import java.util.Scanner;
-
+ 
 public class LargestNum {
   
   public static int greatestNum(int num,int num2,int num3){
