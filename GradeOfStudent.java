@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GradeOfStudent {
   public char studentGradeCalculator(int marks){
-    
+     
     if(marks >= 90){
       return 'A';
     }
