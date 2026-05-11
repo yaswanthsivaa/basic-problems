@@ -1,7 +1,7 @@
 // To find electricity bill based on the slabs
 import java.util.Scanner;
 public class ElectricityBill {
-  
+ 
   public static int calculateElectricity(int wats){
     
     if(wats <= 100){
