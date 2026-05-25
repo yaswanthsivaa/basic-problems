@@ -17,7 +17,7 @@ public class GradeOfStudent {
     else if(marks >= 35){
       return 'D';
     }
-    else{
+    else{ 
       return 'F';
     }
 
