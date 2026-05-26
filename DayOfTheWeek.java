@@ -5,7 +5,7 @@ public class DayOfTheWeek{
  
   public static String DayOfTheweek(int dayNumber){
     switch(dayNumber){
-
+ 
       case 1:
          return "Monday";
       case 2:
