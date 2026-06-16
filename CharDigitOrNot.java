@@ -17,7 +17,7 @@ public class CharDigitOrNot {
     
     if(digitOrNot(character)){
        System.out.println("*Yes!, It's Digit...");
-    }
+    } 
     else{
       System.out.println("`No!, it's not a Digit.");
     }
