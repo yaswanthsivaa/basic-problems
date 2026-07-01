@@ -9,7 +9,7 @@ for i in range(0, 11):
     if i == 0:
         print(prevPrev)
         continue
-    
+     
     if i == 1:
         print(prev)
         continue
