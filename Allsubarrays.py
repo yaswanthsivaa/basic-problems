@@ -1,4 +1,4 @@
-# service based asked mostly related to sub arrays 
+ # service based asked mostly related to sub arrays 
 
 a = [1,2,3,4] 
 for i in range(len(a)):
